@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/AdamGoodApp/Crypto-Zombies/issues"
   },
-  "homepage": "https://github.com/AdamGoodApp/Crypto-Zombies#readme"
+  "homepage": "https://github.com/AdamGoodApp/Crypto-Zombies#readme",
+  "dependencies": {
+    "zeppelin-solidity": "^1.4.0"
+  }
 }
