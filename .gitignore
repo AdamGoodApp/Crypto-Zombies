@@ -1,0 +1,5 @@
+# Compiled contracts
+build/
+
+# Npm modules
+node_modules/
