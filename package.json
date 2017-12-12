@@ -1,0 +1,27 @@
+{
+  "name": "crypto-zombie",
+  "version": "1.0.0",
+  "description": "Own unique Zombies that are created on the Ethereum network",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamGoodApp/Crypto-Zombies.git"
+  },
+  "keywords": [
+    "ethereum",
+    "crypto",
+    "zombies"
+  ],
+  "author": "Adam Rais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamGoodApp/Crypto-Zombies/issues"
+  },
+  "homepage": "https://github.com/AdamGoodApp/Crypto-Zombies#readme"
+}
