@@ -1,6 +1,6 @@
 {
   "name": "crypto-zombie",
-  "version": "0.1",
+  "version": "0.1.0",
   "private": true,
   "description": "Own unique Zombies that are created on the Ethereum network",
   "repository": {
